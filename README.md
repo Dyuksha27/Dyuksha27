@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dyuksha</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast</h3>
-<img align="right" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" />
+<img align="right" width="400" src="https://drive.google.com/file/d/1LoJnVyQZH8tyB7IkMRVoGw69k851aZlr/view?usp=drive_link" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20views&color=0e75b6&style=flat" alt="dyuksha27" /> </p>
 
