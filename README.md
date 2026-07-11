@@ -10,102 +10,72 @@ Software Engineering Student • Full Stack Developer • Machine Learning Enthu
 <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
 </p>
 
----
+- 🌱 Currently learning **System Design, Backend Development & Cloud**
 
-## 👩‍💻 About Me
+- 💻 Interested in **Full Stack Development, Machine Learning and Scalable Software Systems**
 
-🎓 I'm a Computer Science Engineering (Data Science) undergraduate at **Netaji Subhas University of Technology (NSUT)**.
+- 📄 IEEE Published Research Author
 
-💻 I enjoy building scalable full-stack applications, solving real-world problems through software, and exploring machine learning and intelligent systems.
+- 💬 Ask me about **Java, React, Node.js, Express.js, PostgreSQL, Docker**
 
-📄 I'm also a co-author of an **IEEE published research paper** on machine learning-based carbon footprint prediction.
+- 📫 Reach out to me at **dyusin123@gmail.com**
 
-✨ I love learning new technologies and turning ideas into practical, impactful products.
+- 🤝 Let's connect on **LinkedIn**
+  <br>
+  **https://www.linkedin.com/in/dyuksha-singla-3123a328b/**
 
----
-
-## 🚀 Featured Projects
-
-### 🌿 DermaGlow – Intelligent Skin-Safety E-Commerce Ecosystem
-
-A full-stack skincare e-commerce platform that analyzes product ingredients and provides personalized safety recommendations.
-
-**Built with:** React.js • Node.js • Express.js • PostgreSQL • Docker • JWT • Stripe • Cloudinary
+- 📄 Resume
+  <br>
+  **https://drive.google.com/file/d/1qQM-H8ZYntuJOrMl3IdJHsAiZWSPw1jG/view?usp=sharing**
 
 ---
 
-### 🌍 Carbon Impact Estimator *(IEEE Published)*
+<h3 align="left">Languages & Tools</h3>
 
-A machine learning framework for estimating product-level carbon footprints using production, packaging, and logistics features.
+<p align="left">
 
-**Built with:** Python • NumPy • Pandas • Scikit-learn • Random Forest Regression
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
-## 🏆 Achievements
+<h3 align="left">Achievements</h3>
 
 - 📄 IEEE Published Research Paper
-- 🚀 Smart India Hackathon (SIH) Internal Round Qualifier
+- 💼 Software Engineering Intern at Veersa Technologies
+- 🏆 Smart India Hackathon (SIH) Internal Round Qualifier
 - 🎓 IBM Python for Data Science
 - 📚 Multiple NPTEL Certifications
 
 ---
 
-## 📫 Reach Out to Me
-
-📧 **Email:**  
-**dyusin123@gmail.com**
-
-💼 **LinkedIn:**  
-**https://www.linkedin.com/in/dyuksha-singla-3123a328b/**
-
-📄 **Resume:**  
-**https://drive.google.com/file/d/1qQM-H8ZYntuJOrMl3IdJHsAiZWSPw1jG/view?usp=sharing**
-
----
-
-## 📊 GitHub Stats
+<h3 align="left">GitHub Stats</h3>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyuksha27&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyuksha27&theme=tokyonight&hide_border=true"/>
+
 </p>
