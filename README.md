@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dyuksha Singla</h1>
 
 <h3 align="center">
-Software Engineering Student • Full Stack Developer • Machine Learning Enthusiast
+Full Stack Developer • Machine Learning Enthusiast
 </h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
@@ -68,9 +68,9 @@ Software Engineering Student • Full Stack Developer • Machine Learning Enthu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact"/>
 
 </p>
 
