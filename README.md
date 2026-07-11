@@ -1,28 +1,77 @@
-<h1 align="center">Hi 👋, I'm Dyuksha</h1>
-<h3 align="center">A passionate frontend developer and ML enthusiast</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
+<h1 align="center">Hi 👋, I'm Dyuksha Singla</h1>
+<h3 align="center">Software Engineering Intern | Computer Science & Engineering (Data Science) Student at NSUT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20views&color=0e75b6&style=flat" alt="dyuksha27" /> </p>
-
-- 💬 Ask me about **HTML, CSS, REACT, MySQL, JAVA**
-
-- 📫 How to reach me **dyusin123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uIyXlZZKUHWWJV6ajoy_bfTTkoaFO9_o/view?usp=sharing](https://drive.google.com/file/d/1uIyXlZZKUHWWJV6ajoy_bfTTkoaFO9_o/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dyuksha-singla-3123a328b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dyuksha-singla-3123a328b/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dyuksha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dyuksha27" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/dyuksha-singla-3123a328b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dyuksha.singla.ug23@nsut.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Dyuksha27/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" width="380" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding GIF" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyuksha27&show_icons=true&locale=en&layout=compact" alt="dyuksha27" /></p>
+### 🚀 About Me
+- 🎓 Pursuing **B.Tech in Computer Science Engineering (Data Science)** at **Netaji Subhas University of Technology (NSUT)**.
+- 💻 **Software Engineering Intern** experienced in building containerized full-stack platforms and secure REST APIs.
+- 📊 **ML Enthusiast** passionate about predictive modeling and data analytics—co-authored an IEEE-published research project.
+- 💡 **Co-Head of Operations** at NSUT IIF & dedicated community volunteer.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyuksha27&show_icons=true&locale=en" alt="dyuksha27" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyuksha27&" alt="dyuksha27" /></p>
+### 🛠️ Languages & Technologies
 
+#### **Programming & Core CS**
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="28"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="28"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-black?style=flat-square" alt="DSA" height="28"/>
+  <img src="https://img.shields.io/badge/Database_Management-blue?style=flat-square" alt="DBMS" height="28"/>
+</p>
 
+#### **Full-Stack & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React.js" height="28"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" height="28"/>
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/>
+</p>
+
+#### **Data Science & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="28"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="28"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="28"/>
+</p>
+
+---
+
+### 📈 Featured Projects & Work Experience
+
+🏢 **Software Engineering Intern @ Veersa Technologies**
+- Engineered and containerized full-stack healthcare architectures leveraging **React.js, Node.js, Express.js, PostgreSQL, and Docker Compose**.
+- Architected robust REST APIs integrated with role-based JWT authentication and transactional stream optimization.
+
+✨ **DermaGlow - Intelligent Skin-Safety E-Commerce Ecosystem**
+- Integrated the SkinSAFE dataset to compute production risk metrics using SHA-256 hashing arrays alongside Stripe and Cloudinary features.
+
+🌱 **Carbon Impact Estimator | Research Project (IEEE Published)**
+- Developed a stage-wise machine learning pipeline predicting macro product footprints using Random Forest Regression, reaching an $R^2 = 0.9998$ score.
+
+---
+
+### 🏆 Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyuksha27&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dyuksha27&show_icons=true&locale=en&theme=visual_studio" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyuksha27&theme=visual_studio" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
