@@ -1,144 +1,100 @@
 <h1 align="center">Hi 👋, I'm Dyuksha Singla</h1>
 
 <h3 align="center">
-Software Engineering Student | Full Stack Developer | Machine Learning Enthusiast
+Software Engineering Student • Full Stack Developer • Machine Learning Enthusiast
 </h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
+<p align="center">
+<a href="https://github.com/Dyuksha27">GitHub</a> •
+<a href="https://www.linkedin.com/in/dyuksha-singla-3123a328b/">LinkedIn</a> •
+<a href="mailto:dyusin123@gmail.com">Email</a> •
+<a href="https://drive.google.com/file/d/1qQM-H8ZYntuJOrMl3IdJHsAiZWSPw1jG/view?usp=sharing">Resume</a>
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science) student at **Netaji Subhas University of Technology (NSUT)**
-- 💼 Former **Software Engineering Intern at Veersa Technologies**
-- 🌱 Currently exploring **System Design, Backend Development, Cloud, and Machine Learning**
-- 🛠️ Passionate about building scalable full-stack applications
-- 📖 IEEE Published Research Author in Machine Learning
-- 💬 Ask me about **Java, React, Node.js, Express.js, PostgreSQL, Docker, Machine Learning**
-- 📫 Reach me at **dyusin123@gmail.com**
+🎓 Final-year B.Tech student in Computer Science Engineering (Data Science) at **NSUT**.
 
----
+💼 Former **Software Engineering Intern at Veersa Technologies**, where I developed containerized full-stack applications using React, Node.js, Express.js, PostgreSQL, Docker Compose, Stripe, JWT, and Cloudinary.
 
-## 🚀 Featured Projects
+📄 Co-author of an **IEEE published research paper** on Machine Learning for product-level carbon footprint prediction.
 
-### 🌿 DermaGlow – Intelligent Skin-Safety E-Commerce Ecosystem
-
-- Full-stack skincare e-commerce platform
-- React.js + Node.js + Express.js + PostgreSQL
-- JWT Authentication
-- Stripe Payments
-- Cloudinary Integration
-- Docker Compose
-- Ingredient Risk Scoring Engine
-
----
-
-### 🌍 Carbon Impact Estimator (IEEE Published)
-
-- Machine Learning based Carbon Footprint Prediction
-- Random Forest Regression
-- 8,523 Product Dataset
-- 94.01% Prediction Accuracy
-- Python, NumPy, Pandas, Scikit-learn
+🚀 Currently focused on:
+- Full Stack Development
+- Backend Engineering
+- System Design
+- Machine Learning
+- Data Structures & Algorithms
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### Frontend
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### Machine Learning
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-</p>
+### Database
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-- 📄 IEEE Published Research Author
-- 💻 Software Engineering Intern at Veersa Technologies
-- 🚀 Smart India Hackathon (SIH) Internal Round Qualified
-- 📚 IBM Python for Data Science
-- 🎓 Multiple NPTEL Certifications
+### 🌿 DermaGlow
+A full-stack skincare e-commerce ecosystem with ingredient-based safety analysis.
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/Dyuksha27">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dyuksha-singla-3123a328b/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="mailto:dyusin123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-</p>
+**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Docker • JWT • Stripe • Cloudinary
 
 ---
 
-## 📊 GitHub Analytics
+### 🌍 Carbon Impact Estimator (IEEE Published)
+
+Machine learning model for predicting product-level carbon footprints.
+
+- Random Forest Regression
+- 8,523 product records
+- 94.01% prediction accuracy
+
+---
+
+## 🏆 Highlights
+
+- 💼 Software Engineering Intern @ Veersa Technologies
+- 📄 IEEE Published Research Paper
+- 🏅 Smart India Hackathon (SIH) Internal Round Qualifier
+- 🎓 Multiple IBM & NPTEL Certifications
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyuksha27&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuksha27&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyuksha27&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyuksha27&theme=github_dark"/>
 </p>
