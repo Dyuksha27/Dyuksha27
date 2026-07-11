@@ -4,86 +4,97 @@
 Software Engineering Student • Full Stack Developer • Machine Learning Enthusiast
 </h3>
 
-<p align="center">
-<a href="https://github.com/Dyuksha27">GitHub</a> •
-<a href="https://www.linkedin.com/in/dyuksha-singla-3123a328b/">LinkedIn</a> •
-<a href="mailto:dyusin123@gmail.com">Email</a> •
-<a href="https://drive.google.com/file/d/1qQM-H8ZYntuJOrMl3IdJHsAiZWSPw1jG/view?usp=sharing">Resume</a>
+<img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Final-year B.Tech student in Computer Science Engineering (Data Science) at **NSUT**.
+🎓 I'm a Computer Science Engineering (Data Science) undergraduate at **Netaji Subhas University of Technology (NSUT)**.
 
-💼 Former **Software Engineering Intern at Veersa Technologies**, where I developed containerized full-stack applications using React, Node.js, Express.js, PostgreSQL, Docker Compose, Stripe, JWT, and Cloudinary.
+💻 I enjoy building scalable full-stack applications, solving real-world problems through software, and exploring machine learning and intelligent systems.
 
-📄 Co-author of an **IEEE published research paper** on Machine Learning for product-level carbon footprint prediction.
+📄 I'm also a co-author of an **IEEE published research paper** on machine learning-based carbon footprint prediction.
 
-🚀 Currently focused on:
-- Full Stack Development
-- Backend Engineering
-- System Design
-- Machine Learning
-- Data Structures & Algorithms
+✨ I love learning new technologies and turning ideas into practical, impactful products.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 DermaGlow – Intelligent Skin-Safety E-Commerce Ecosystem
+
+A full-stack skincare e-commerce platform that analyzes product ingredients and provides personalized safety recommendations.
+
+**Built with:** React.js • Node.js • Express.js • PostgreSQL • Docker • JWT • Stripe • Cloudinary
+
+---
+
+### 🌍 Carbon Impact Estimator *(IEEE Published)*
+
+A machine learning framework for estimating product-level carbon footprints using production, packaging, and logistics features.
+
+**Built with:** Python • NumPy • Pandas • Scikit-learn • Random Forest Regression
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
 ### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
 ### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 
-### Database
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+### Databases
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-## 🚀 Featured Projects
+### Tools & Technologies
 
-### 🌿 DermaGlow
-A full-stack skincare e-commerce ecosystem with ingredient-based safety analysis.
-
-**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Docker • JWT • Stripe • Cloudinary
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
 
 ---
 
-### 🌍 Carbon Impact Estimator (IEEE Published)
+## 🏆 Achievements
 
-Machine learning model for predicting product-level carbon footprints.
-
-- Random Forest Regression
-- 8,523 product records
-- 94.01% prediction accuracy
-
----
-
-## 🏆 Highlights
-
-- 💼 Software Engineering Intern @ Veersa Technologies
 - 📄 IEEE Published Research Paper
-- 🏅 Smart India Hackathon (SIH) Internal Round Qualifier
-- 🎓 Multiple IBM & NPTEL Certifications
+- 🚀 Smart India Hackathon (SIH) Internal Round Qualifier
+- 🎓 IBM Python for Data Science
+- 📚 Multiple NPTEL Certifications
+
+---
+
+## 📫 Reach Out to Me
+
+📧 **Email:**  
+**dyusin123@gmail.com**
+
+💼 **LinkedIn:**  
+**https://www.linkedin.com/in/dyuksha-singla-3123a328b/**
+
+📄 **Resume:**  
+**https://drive.google.com/file/d/1qQM-H8ZYntuJOrMl3IdJHsAiZWSPw1jG/view?usp=sharing**
 
 ---
 
