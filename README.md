@@ -4,7 +4,7 @@
 Full Stack Developer • Machine Learning Enthusiast
 </h3>
 
-<img align="right" width="400" height="370" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
+<img align="right" width="400" height="340" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
