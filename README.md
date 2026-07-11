@@ -10,8 +10,6 @@ Full Stack Developer • Machine Learning Enthusiast
 <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
 </p>
 
-- 🌱 Currently learning **System Design, Backend Development & Cloud**
-
 - 💻 Interested in **Full Stack Development, Machine Learning and Scalable Software Systems**
 
 - 📄 IEEE Published Research Author
@@ -57,10 +55,8 @@ Full Stack Developer • Machine Learning Enthusiast
 <h3 align="left">Achievements</h3>
 
 - 📄 IEEE Published Research Paper
-- 💼 Software Engineering Intern at Veersa Technologies
+- 🌍 Top 20% globally in **WorldQuant International Quant Championship (IQC) 2025 – Stage 1**
 - 🏆 Smart India Hackathon (SIH) Internal Round Qualifier
-- 🎓 IBM Python for Data Science
-- 📚 Multiple NPTEL Certifications
 
 ---
 
