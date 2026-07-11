@@ -12,7 +12,7 @@ Full Stack Developer • Machine Learning Enthusiast
 
 - 💻 Interested in **Full Stack Development, Machine Learning and Scalable Software Systems**
 
-- 📄 IEEE Published Research Author
+- 📄 Author of an IEEE Published Research Paper on Machine Learning-based Carbon Footprint Prediction
 
 - 💬 Ask me about **Java, React, Node.js, Express.js, PostgreSQL, Docker**
 
