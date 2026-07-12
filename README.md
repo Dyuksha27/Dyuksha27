@@ -10,7 +10,7 @@ Full Stack Developer • Machine Learning Enthusiast
 <img src="https://komarev.com/ghpvc/?username=dyuksha27&label=Profile%20Views&color=0e75b6&style=flat" alt="dyuksha27"/>
 </p>
 
-- 💻 Interested in **Full Stack Development, Machine Learning and Scalable Software Systems**
+- 💻 Interested in **Full Stack Development, Machine Learning, AI and Scalable Software Systems**
 
 - 📄 Author of an IEEE Published Research Paper on Machine Learning-based Carbon Footprint Prediction
 
